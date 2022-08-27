@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RideSharing</string>
+    <string name="api_key">AIzaSyCFNeXS7yhhPfy1TdUzKAL3WZ3nZXb3_tU</string>
+    <string name="where_to">Where to?</string>
+    <string name="pickup_location">Pickup Location</string>
+    <string name="request_cab">Request Cab</string>
+    <string name="requesting_your_cab">Requesting Your Cab</string>
+</resources>
